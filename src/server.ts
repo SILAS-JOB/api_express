@@ -10,3 +10,4 @@ app.listen(port, () => {
     console.log(`Server up and running on http://localhost:${port}`)
 })
 
+export default app
